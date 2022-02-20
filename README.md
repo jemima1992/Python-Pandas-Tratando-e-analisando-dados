@@ -2,7 +2,7 @@
 Python Pandas: Tratando e analisando dados
 
 
-#Curso de Data Science o que aprendi:
+Curso de Data Science o que aprendi:
 
 Importar dados e exportar dataframes
 
